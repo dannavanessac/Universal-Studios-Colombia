@@ -1,0 +1,123 @@
+[
+    {
+        "_id": 40,
+        "titulo": "Death on Two Legs",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "3:43",
+        "numero_pista": 1,
+        "popularidad": 78
+    },
+    {
+        "_id": 41,
+        "titulo": "Lazing on a Sunday Afternoon",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "1:08",
+        "numero_pista": 2,
+        "popularidad": 72
+    },
+    {
+        "_id": 42,
+        "titulo": "I'm in Love with My Car",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "3:05",
+        "numero_pista": 3,
+        "popularidad": 80
+    },
+    {
+        "_id": 43,
+        "titulo": "You're My Best Friend",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Pop Rock",
+        "duracion": "2:50",
+        "numero_pista": 4,
+        "popularidad": 95
+    },
+    {
+        "_id": 44,
+        "titulo": "'39",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Folk Rock",
+        "duracion": "3:30",
+        "numero_pista": 5,
+        "popularidad": 85
+    },
+    {
+        "_id": 45,
+        "titulo": "Sweet Lady",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "4:01",
+        "numero_pista": 6,
+        "popularidad": 70
+    },
+    {
+        "_id": 46,
+        "titulo": "Seaside Rendezvous",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "2:13",
+        "numero_pista": 7,
+        "popularidad": 75
+    },
+    {
+        "_id": 47,
+        "titulo": "The Prophet's Song",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Progressive Rock",
+        "duracion": "8:17",
+        "numero_pista": 8,
+        "popularidad": 82
+    },
+    {
+        "_id": 48,
+        "titulo": "Love of My Life",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "3:38",
+        "numero_pista": 9,
+        "popularidad": 98
+    },
+    {
+        "_id": 49,
+        "titulo": "Good Company",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "Rock",
+        "duracion": "3:23",
+        "numero_pista": 10,
+        "popularidad": 74
+    },
+    {
+        "_id": 105,
+        "titulo": "Bohemian Rhapsody (Operatic Section A cappella)",
+        "anio_salida": 1975,
+        "autor": "Queen",
+        "id_imagen_portada": "queen.png",
+        "genero": "A cappella",
+        "duracion": "1:03",
+        "numero_pista": 13,
+        "popularidad": 50
+    }
+]
