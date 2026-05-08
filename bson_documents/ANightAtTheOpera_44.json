@@ -1,0 +1,11 @@
+{
+    "_id": 44,
+    "titulo": "'39",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Folk Rock",
+    "duracion": "3:30",
+    "numero_pista": 5,
+    "popularidad": 85
+}

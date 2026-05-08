@@ -1,0 +1,11 @@
+{
+    "_id": 36,
+    "titulo": "Billie Jean",
+    "anio_salida": 1982,
+    "autor": "Michael Jackson",
+    "id_imagen_portada": "michael.jpeg",
+    "genero": "Pop",
+    "duracion": "4:54",
+    "numero_pista": 6,
+    "popularidad": 100
+}

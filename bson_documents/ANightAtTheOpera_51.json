@@ -1,0 +1,11 @@
+{
+    "_id": 51,
+    "titulo": "God Save the Queen",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "1:11",
+    "numero_pista": 12,
+    "popularidad": 80
+}

@@ -1,0 +1,11 @@
+{
+    "_id": 49,
+    "titulo": "Good Company",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "3:23",
+    "numero_pista": 10,
+    "popularidad": 74
+}

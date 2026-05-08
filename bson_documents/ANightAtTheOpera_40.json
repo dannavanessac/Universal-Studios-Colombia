@@ -1,0 +1,11 @@
+{
+    "_id": 40,
+    "titulo": "Death on Two Legs",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "3:43",
+    "numero_pista": 1,
+    "popularidad": 78
+}

@@ -1,0 +1,11 @@
+{
+    "_id": 18,
+    "titulo": "El Regreso Del C\u00f3ndor",
+    "anio_salida": 1993,
+    "autor": "Diomedes D\u00edaz",
+    "id_imagen_portada": "diomedes.jpg",
+    "genero": "Vallenato",
+    "duracion": "4:50",
+    "numero_pista": 10,
+    "popularidad": 88
+}

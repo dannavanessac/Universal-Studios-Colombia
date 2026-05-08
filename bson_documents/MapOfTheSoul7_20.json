@@ -1,0 +1,11 @@
+{
+    "_id": 20,
+    "titulo": "Intro: Persona",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "2:54",
+    "numero_pista": 1,
+    "popularidad": 85
+}
