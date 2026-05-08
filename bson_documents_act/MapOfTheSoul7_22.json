@@ -1,0 +1,11 @@
+{
+    "_id": 22,
+    "titulo": "Make It Right",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "3:42",
+    "numero_pista": 3,
+    "popularidad": 88
+}

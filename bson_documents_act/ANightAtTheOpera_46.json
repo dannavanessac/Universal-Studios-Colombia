@@ -1,0 +1,11 @@
+{
+    "_id": 46,
+    "titulo": "Seaside Rendezvous",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "2:13",
+    "numero_pista": 7,
+    "popularidad": 75
+}

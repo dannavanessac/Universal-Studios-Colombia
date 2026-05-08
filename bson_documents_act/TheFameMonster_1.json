@@ -1,0 +1,11 @@
+{
+    "_id": 1,
+    "titulo": "Bad Romance",
+    "anio_salida": 2009,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "lady_gaga.jpg",
+    "genero": "Pop",
+    "duracion": "4:54",
+    "numero_pista": 1,
+    "popularidad": 98
+}

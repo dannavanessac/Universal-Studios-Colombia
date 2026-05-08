@@ -1,0 +1,11 @@
+{
+    "_id": 50,
+    "titulo": "Bohemian Rhapsody",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Progressive Rock",
+    "duracion": "5:55",
+    "numero_pista": 11,
+    "popularidad": 100
+}

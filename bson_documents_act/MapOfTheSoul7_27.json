@@ -1,0 +1,11 @@
+{
+    "_id": 27,
+    "titulo": "Filter",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "3:00",
+    "numero_pista": 8,
+    "popularidad": 92
+}

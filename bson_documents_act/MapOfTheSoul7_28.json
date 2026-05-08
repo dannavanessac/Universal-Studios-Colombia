@@ -1,0 +1,11 @@
+{
+    "_id": 28,
+    "titulo": "My Time",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "3:54",
+    "numero_pista": 9,
+    "popularidad": 87
+}

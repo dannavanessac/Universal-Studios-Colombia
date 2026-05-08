@@ -1,0 +1,11 @@
+{
+    "_id": 23,
+    "titulo": "Jamais Vu",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "3:46",
+    "numero_pista": 4,
+    "popularidad": 82
+}

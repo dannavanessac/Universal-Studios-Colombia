@@ -1,0 +1,11 @@
+{
+    "_id": 105,
+    "titulo": "Bohemian Rhapsody (Operatic Section A cappella)",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "A cappella",
+    "duracion": "1:03",
+    "numero_pista": 13,
+    "popularidad": 50
+}

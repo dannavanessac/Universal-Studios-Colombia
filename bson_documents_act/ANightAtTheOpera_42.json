@@ -1,0 +1,11 @@
+{
+    "_id": 42,
+    "titulo": "I'm in Love with My Car",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "3:05",
+    "numero_pista": 3,
+    "popularidad": 80
+}

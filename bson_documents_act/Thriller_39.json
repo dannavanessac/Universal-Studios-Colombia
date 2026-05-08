@@ -1,0 +1,11 @@
+{
+    "_id": 39,
+    "titulo": "The Lady in My Life",
+    "anio_salida": 1982,
+    "autor": "Michael Jackson",
+    "id_imagen_portada": "michael.jpeg",
+    "genero": "R&B",
+    "duracion": "5:00",
+    "numero_pista": 9,
+    "popularidad": 80
+}

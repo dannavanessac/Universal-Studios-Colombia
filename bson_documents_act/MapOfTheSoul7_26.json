@@ -1,0 +1,11 @@
+{
+    "_id": 26,
+    "titulo": "Black Swan",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "3:18",
+    "numero_pista": 7,
+    "popularidad": 95
+}
