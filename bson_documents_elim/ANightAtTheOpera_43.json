@@ -1,0 +1,11 @@
+{
+    "_id": 43,
+    "titulo": "You're My Best Friend",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Pop Rock",
+    "duracion": "2:50",
+    "numero_pista": 4,
+    "popularidad": 95
+}

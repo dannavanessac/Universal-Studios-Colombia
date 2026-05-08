@@ -1,0 +1,11 @@
+{
+    "_id": 32,
+    "titulo": "Baby Be Mine",
+    "anio_salida": 1982,
+    "autor": "Michael Jackson",
+    "id_imagen_portada": "michael.jpeg",
+    "genero": "Pop",
+    "duracion": "4:20",
+    "numero_pista": 2,
+    "popularidad": 75
+}

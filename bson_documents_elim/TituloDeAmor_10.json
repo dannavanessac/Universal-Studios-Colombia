@@ -1,0 +1,11 @@
+{
+    "_id": 10,
+    "titulo": "Dejala",
+    "anio_salida": 1993,
+    "autor": "Diomedes D\u00edaz",
+    "id_imagen_portada": "diomedes.jpg",
+    "genero": "Vallenato",
+    "duracion": "4:15",
+    "numero_pista": 2,
+    "popularidad": 85
+}

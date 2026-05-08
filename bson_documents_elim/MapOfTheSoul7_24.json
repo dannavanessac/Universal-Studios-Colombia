@@ -1,0 +1,11 @@
+{
+    "_id": 24,
+    "titulo": "Dionysus",
+    "anio_salida": 2020,
+    "autor": "BTS",
+    "id_imagen_portada": "BTS.jpg",
+    "genero": "K-Pop",
+    "duracion": "4:08",
+    "numero_pista": 5,
+    "popularidad": 89
+}

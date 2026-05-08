@@ -1,0 +1,11 @@
+{
+    "_id": 41,
+    "titulo": "Lazing on a Sunday Afternoon",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "1:08",
+    "numero_pista": 2,
+    "popularidad": 72
+}

@@ -1,0 +1,11 @@
+{
+    "_id": 48,
+    "titulo": "Love of My Life",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "3:38",
+    "numero_pista": 9,
+    "popularidad": 98
+}

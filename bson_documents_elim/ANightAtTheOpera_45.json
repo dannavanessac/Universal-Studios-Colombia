@@ -1,0 +1,11 @@
+{
+    "_id": 45,
+    "titulo": "Sweet Lady",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "queen.png",
+    "genero": "Rock",
+    "duracion": "4:01",
+    "numero_pista": 6,
+    "popularidad": 70
+}

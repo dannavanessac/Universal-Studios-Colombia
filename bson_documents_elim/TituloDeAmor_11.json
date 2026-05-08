@@ -1,0 +1,11 @@
+{
+    "_id": 11,
+    "titulo": "Conmigo No Te Metas",
+    "anio_salida": 1993,
+    "autor": "Diomedes D\u00edaz",
+    "id_imagen_portada": "diomedes.jpg",
+    "genero": "Vallenato",
+    "duracion": "3:50",
+    "numero_pista": 3,
+    "popularidad": 80
+}

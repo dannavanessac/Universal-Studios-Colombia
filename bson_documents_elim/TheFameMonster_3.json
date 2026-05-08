@@ -1,0 +1,11 @@
+{
+    "_id": 3,
+    "titulo": "Monster",
+    "anio_salida": 2009,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "lady_gaga.jpg",
+    "genero": "Pop",
+    "duracion": "4:09",
+    "numero_pista": 3,
+    "popularidad": 85
+}

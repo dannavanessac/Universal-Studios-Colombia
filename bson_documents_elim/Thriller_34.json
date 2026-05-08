@@ -1,0 +1,11 @@
+{
+    "_id": 34,
+    "titulo": "Thriller",
+    "anio_salida": 1982,
+    "autor": "Michael Jackson",
+    "id_imagen_portada": "michael.jpeg",
+    "genero": "Pop",
+    "duracion": "5:57",
+    "numero_pista": 4,
+    "popularidad": 99
+}
