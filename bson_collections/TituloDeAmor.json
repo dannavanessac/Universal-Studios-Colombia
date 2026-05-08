@@ -1,0 +1,123 @@
+[
+    {
+        "_id": 9,
+        "titulo": "Mi Primera Cana",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:20",
+        "numero_pista": 1,
+        "popularidad": 95
+    },
+    {
+        "_id": 10,
+        "titulo": "Dejala",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:15",
+        "numero_pista": 2,
+        "popularidad": 85
+    },
+    {
+        "_id": 11,
+        "titulo": "Conmigo No Te Metas",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "3:50",
+        "numero_pista": 3,
+        "popularidad": 80
+    },
+    {
+        "_id": 12,
+        "titulo": "T\u00fa Eres La Reina",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:10",
+        "numero_pista": 4,
+        "popularidad": 99
+    },
+    {
+        "_id": 13,
+        "titulo": "Amarte M\u00e1s No Pude",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:35",
+        "numero_pista": 5,
+        "popularidad": 98
+    },
+    {
+        "_id": 14,
+        "titulo": "El Verdadero Culpable",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:00",
+        "numero_pista": 6,
+        "popularidad": 75
+    },
+    {
+        "_id": 15,
+        "titulo": "Necesito Tu Amor",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:25",
+        "numero_pista": 7,
+        "popularidad": 82
+    },
+    {
+        "_id": 16,
+        "titulo": "Mi Compadre Se Cay\u00f3",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "3:40",
+        "numero_pista": 8,
+        "popularidad": 70
+    },
+    {
+        "_id": 17,
+        "titulo": "La Doctora",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:12",
+        "numero_pista": 9,
+        "popularidad": 78
+    },
+    {
+        "_id": 18,
+        "titulo": "El Regreso Del C\u00f3ndor",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:50",
+        "numero_pista": 10,
+        "popularidad": 88
+    },
+    {
+        "_id": 19,
+        "titulo": "Ven Conmigo",
+        "anio_salida": 1993,
+        "autor": "Diomedes D\u00edaz",
+        "id_imagen_portada": "diomedes.jpg",
+        "genero": "Vallenato",
+        "duracion": "4:05",
+        "numero_pista": 11,
+        "popularidad": 76
+    }
+]

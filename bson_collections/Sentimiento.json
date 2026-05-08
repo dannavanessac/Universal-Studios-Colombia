@@ -1,0 +1,79 @@
+[
+    {
+        "_id": 52,
+        "titulo": "Que Lloren",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "3:13",
+        "numero_pista": 1,
+        "popularidad": 95
+    },
+    {
+        "_id": 53,
+        "titulo": "En Que Fallamos",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "3:02",
+        "numero_pista": 2,
+        "popularidad": 90
+    },
+    {
+        "_id": 54,
+        "titulo": "Sentimientos",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "2:46",
+        "numero_pista": 3,
+        "popularidad": 88
+    },
+    {
+        "_id": 55,
+        "titulo": "Pobre Coraz\u00f3n",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "3:26",
+        "numero_pista": 4,
+        "popularidad": 85
+    },
+    {
+        "_id": 56,
+        "titulo": "Dile",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "3:03",
+        "numero_pista": 5,
+        "popularidad": 92
+    },
+    {
+        "_id": 57,
+        "titulo": "Mec\u00e1nica",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "3:10",
+        "numero_pista": 6,
+        "popularidad": 80
+    },
+    {
+        "_id": 58,
+        "titulo": "Coraz\u00f3n Anestesiado",
+        "anio_salida": 2007,
+        "autor": "Ivy Queen",
+        "id_imagen_portada": "ivy_queen.jpg",
+        "genero": "Reggaeton",
+        "duracion": "3:16",
+        "numero_pista": 7,
+        "popularidad": 82
+    }
+]
