@@ -1,0 +1,47 @@
+coleccion,_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion,numero_pista,popularidad
+ANightAtTheOpera,40,Death on Two Legs,1975,Queen,queen.png,Rock,3:43,1,78
+ANightAtTheOpera,41,Lazing on a Sunday Afternoon,1975,Queen,queen.png,Rock,1:08,2,72
+ANightAtTheOpera,42,I'm in Love with My Car,1975,Queen,queen.png,Rock,3:05,3,80
+ANightAtTheOpera,43,You're My Best Friend,1975,Queen,queen.png,Pop Rock,2:50,4,95
+ANightAtTheOpera,44,'39,1975,Queen,queen.png,Folk Rock,3:30,5,85
+ANightAtTheOpera,45,Sweet Lady,1975,Queen,queen.png,Rock,4:01,6,70
+ANightAtTheOpera,46,Seaside Rendezvous,1975,Queen,queen.png,Rock,2:13,7,75
+ANightAtTheOpera,47,The Prophet's Song,1975,Queen,queen.png,Progressive Rock,8:17,8,82
+ANightAtTheOpera,48,Love of My Life,1975,Queen,queen.png,Rock,3:38,9,98
+ANightAtTheOpera,49,Good Company,1975,Queen,queen.png,Rock,3:23,10,74
+ANightAtTheOpera,105,Bohemian Rhapsody (Operatic Section A cappella),1975,Queen,queen.png,A cappella,1:03,13,50
+Thriller,31,Wanna Be Startin' Somethin',1982,Michael Jackson,michael.jpeg,Pop,6:03,1,90
+Thriller,32,Baby Be Mine,1982,Michael Jackson,michael.jpeg,Pop,4:20,2,75
+Thriller,33,The Girl Is Mine,1982,Michael Jackson,michael.jpeg,Pop,3:42,3,85
+Thriller,34,Thriller,1982,Michael Jackson,michael.jpeg,Pop,5:57,4,99
+Thriller,35,Beat It,1982,Michael Jackson,michael.jpeg,Rock,4:18,5,98
+Thriller,36,Billie Jean,1982,Michael Jackson,michael.jpeg,Pop,4:54,6,100
+Thriller,37,Human Nature,1982,Michael Jackson,michael.jpeg,R&B,4:06,7,92
+Thriller,104,Billie Jean (Home Demo from 1981),1982,Michael Jackson,michael.jpeg,Pop,2:20,10,40
+MapOfTheSoul7,20,Intro: Persona,2020,BTS,BTS.jpg,K-Pop,2:54,1,85
+MapOfTheSoul7,21,Boy With Luv,2020,BTS,BTS.jpg,K-Pop,3:49,2,99
+MapOfTheSoul7,22,Make It Right,2020,BTS,BTS.jpg,K-Pop,3:42,3,88
+MapOfTheSoul7,23,Jamais Vu,2020,BTS,BTS.jpg,K-Pop,3:46,4,82
+MapOfTheSoul7,24,Dionysus,2020,BTS,BTS.jpg,K-Pop,4:08,5,89
+MapOfTheSoul7,25,Interlude: Shadow,2020,BTS,BTS.jpg,K-Pop,4:20,6,84
+MapOfTheSoul7,26,Black Swan,2020,BTS,BTS.jpg,K-Pop,3:18,7,95
+MapOfTheSoul7,27,Filter,2020,BTS,BTS.jpg,K-Pop,3:00,8,92
+MapOfTheSoul7,28,My Time,2020,BTS,BTS.jpg,K-Pop,3:54,9,87
+MapOfTheSoul7,103,ON (feat. Sia),2020,BTS,BTS.jpg,K-Pop,4:06,20,75
+TituloDeAmor,9,Mi Primera Cana,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:20,1,95
+TituloDeAmor,10,Dejala,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:15,2,85
+TituloDeAmor,11,Conmigo No Te Metas,1993,Diomedes Díaz,diomedes.jpg,Vallenato,3:50,3,80
+TituloDeAmor,12,Tú Eres La Reina,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:10,4,99
+TituloDeAmor,13,Amarte Más No Pude,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:35,5,98
+TituloDeAmor,14,El Verdadero Culpable,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:00,6,75
+TituloDeAmor,15,Necesito Tu Amor,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:25,7,82
+TituloDeAmor,16,Mi Compadre Se Cayó,1993,Diomedes Díaz,diomedes.jpg,Vallenato,3:40,8,70
+TituloDeAmor,17,La Doctora,1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:12,9,78
+TituloDeAmor,102,Tú Eres La Reina (Versión Acústica Inédita),1993,Diomedes Díaz,diomedes.jpg,Vallenato,4:30,12,55
+TheFameMonster,1,Bad Romance,2009,Lady Gaga,lady_gaga.jpg,Pop,4:54,1,98
+TheFameMonster,2,Alejandro,2009,Lady Gaga,lady_gaga.jpg,Pop,4:34,2,90
+TheFameMonster,3,Monster,2009,Lady Gaga,lady_gaga.jpg,Pop,4:09,3,85
+TheFameMonster,4,Speechless,2009,Lady Gaga,lady_gaga.jpg,Pop,4:30,4,80
+TheFameMonster,5,Dance in the Dark,2009,Lady Gaga,lady_gaga.jpg,Pop,4:48,5,82
+TheFameMonster,6,Telephone,2009,Lady Gaga,lady_gaga.jpg,Pop,3:40,6,95
+TheFameMonster,101,Bad Romance (Skrillex Remix),2009,Lady Gaga,lady_gaga.jpg,Electronic,4:23,9,60
