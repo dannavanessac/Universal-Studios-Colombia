@@ -1,0 +1,134 @@
+[
+    {
+        "_id": 20,
+        "titulo": "Intro: Persona",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "2:54",
+        "numero_pista": 1,
+        "popularidad": 85
+    },
+    {
+        "_id": 21,
+        "titulo": "Boy With Luv",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:49",
+        "numero_pista": 2,
+        "popularidad": 99
+    },
+    {
+        "_id": 22,
+        "titulo": "Make It Right",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:42",
+        "numero_pista": 3,
+        "popularidad": 88
+    },
+    {
+        "_id": 23,
+        "titulo": "Jamais Vu",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:46",
+        "numero_pista": 4,
+        "popularidad": 82
+    },
+    {
+        "_id": 24,
+        "titulo": "Dionysus",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "4:08",
+        "numero_pista": 5,
+        "popularidad": 89
+    },
+    {
+        "_id": 25,
+        "titulo": "Interlude: Shadow",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "4:20",
+        "numero_pista": 6,
+        "popularidad": 84
+    },
+    {
+        "_id": 26,
+        "titulo": "Black Swan",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:18",
+        "numero_pista": 7,
+        "popularidad": 95
+    },
+    {
+        "_id": 27,
+        "titulo": "Filter",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:00",
+        "numero_pista": 8,
+        "popularidad": 92
+    },
+    {
+        "_id": 28,
+        "titulo": "My Time",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:54",
+        "numero_pista": 9,
+        "popularidad": 87
+    },
+    {
+        "_id": 29,
+        "titulo": "Louder than bombs",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "3:37",
+        "numero_pista": 10,
+        "popularidad": 86
+    },
+    {
+        "_id": 30,
+        "titulo": "ON",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "4:06",
+        "numero_pista": 11,
+        "popularidad": 98
+    },
+    {
+        "_id": 103,
+        "titulo": "ON (feat. Sia)",
+        "anio_salida": 2020,
+        "autor": "BTS",
+        "id_imagen_portada": "BTS.jpg",
+        "genero": "K-Pop",
+        "duracion": "4:06",
+        "numero_pista": 20,
+        "popularidad": 75
+    }
+]
